@@ -1,0 +1,12 @@
+{
+	"type": "code",
+	"modid": "slowurtransfer",
+	"name": "SLowUrTransfer (SLUT)",
+	"version": "1.0.0",
+	"side": "Client",
+	"authors": ["IraGoBrr"],
+	"description": "Cuts your movement speed by 75% (to a quarter of normal) while the inventory window is open.",
+	"dependencies": {
+		"game": "1.22.3"
+	}
+}
